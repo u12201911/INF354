@@ -1,12 +1,9 @@
 <html>
-<head><title>
-INF 354
-</title></head>
-<body>
-<div>
-<?php
-  echo "INF 354 
-?>
-</div>
-</body>
+	<head>
+		<title>INF354 home page</title>
+	</head>
+	<body>
+		<h1>Home page</h1>
+		<img src="index.jpeg"/>
+	</body>
 </html>
